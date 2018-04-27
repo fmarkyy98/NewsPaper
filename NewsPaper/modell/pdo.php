@@ -18,5 +18,4 @@ echo $user[2];
 
 var_dump($user);
 
-//$id = $pdo->lastInsertId();
 
